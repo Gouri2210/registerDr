@@ -1,0 +1,82 @@
+{
+  "registration": [
+    {
+      "fname": "Dr.Elon",
+      "lname": "Musk",
+      "email": "elon@gmail.com",
+      "phone": "8669022053",
+      "pass": "Rjhj6&67",
+      "d1": "MBBS",
+      "d2": "MD",
+      "d3": "DM",
+      "onlineFee": 300,
+      "personFee": "",
+      "id": 5
+    },
+    {
+      "fname": "Dr. Jeff",
+      "lname": "Bezons",
+      "email": "jeff@gmail.com",
+      "phone": "1234567892",
+      "pass": "rT45&jklkk",
+      "d1": "MBBS",
+      "d2": "MS",
+      "d3": "",
+      "onlineFee": 1500,
+      "personFee": "",
+      "id": 6
+    },
+    {
+      "fname": "Gouri",
+      "lname": "Suryawanshi",
+      "email": "gouri23519@gmail.com",
+      "phone": "8669022053",
+      "pass": "G0ur!@86",
+      "d1": "MBBS",
+      "d2": "MD",
+      "d3": "BHMS",
+      "onlineFee": 400,
+      "personFee": 448,
+      "id": 7
+    },
+    {
+      "fname": "Gouri",
+      "lname": "Suryawanshi",
+      "email": "gouri23519@gmail.com",
+      "phone": "8669022053",
+      "pass": "G0ur!@86",
+      "d1": "MBBS",
+      "d2": "MD",
+      "d3": "BHMS",
+      "onlineFee": 400,
+      "personFee": 448,
+      "id": 8
+    },
+    {
+      "fname": "Gouri",
+      "lname": "Suryawanshi",
+      "email": "gouri23519@gmail.com",
+      "phone": "8669022053",
+      "pass": "G0ur!@86",
+      "d1": "MBBS",
+      "d2": "MD",
+      "d3": "BHMS",
+      "onlineFee": 400,
+      "personFee": 448,
+      "id": 9
+    },
+    {
+      "fname": "Gouri",
+      "lname": "Suryawanshi",
+      "email": "gouri23519@gmail.com",
+      "phone": "8669022053",
+      "pass": "G0ur!@86",
+      "d1": "MBBS",
+      "d2": "MD",
+      "d3": "BHMS",
+      "onlineFee": 400,
+      "personFee": 448,
+      "id": 10
+    }
+  ]
+}

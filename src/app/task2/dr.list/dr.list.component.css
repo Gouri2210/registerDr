@@ -1,0 +1,9 @@
+.dispCard
+{
+    width:700px;
+    height: 50px;
+    border-color: blue;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 200px;
+}

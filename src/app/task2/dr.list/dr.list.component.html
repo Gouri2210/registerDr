@@ -1,0 +1,21 @@
+<div class="dispCard">
+<div class="card"  *ngFor ="let a of data"  >
+    <div class="card-body">
+      <h4>Name : {{a.fname}} {{a.lname}}</h4>
+      <h6>Email: {{a.email}}</h6>
+      <p>Phone : {{a.phone}}</p>
+      <div>
+        <ul>Education
+            <li>Degree1 : {{a.d1}}</li>
+            <li>Degree 2 : {{a.d2}}</li>
+            <li>Degree 3 : {{a.d3}}</li>
+        </ul>
+      </div>
+      <p><b>Fees</b></p>
+      <p>online fee : {{a.onlineFee}}</p>
+      <p>Personal fee:{{a.personFee}}</p>
+    </div>
+  </div>
+  </div>
+
+  
